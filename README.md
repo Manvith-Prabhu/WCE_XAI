@@ -12,6 +12,7 @@ We tested two popular deep learning models, ResNET152v2 and MobileNETv2, on the 
 
 ## Results and Discussions
 Below is the table comparing the performance of both the models:
+
 ![image](https://github.com/Manvith-Prabhu/WCE_XAI/assets/100431364/796a0f30-69d8-407b-8d71-863c410bf38a)
 
 Since ResNet152v2 performed slightly better, we implemented Grad-CAM on the same and the results are as follows:
